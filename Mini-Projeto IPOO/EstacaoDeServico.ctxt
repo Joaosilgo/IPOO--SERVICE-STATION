@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=EstacaoDeServico(java.lang.String)
+comment1.params=nome
+comment1.target=void\ selecionarNome(java.lang.String)
+comment2.params=
+comment2.target=boolean\ abastecerVeiculos()
+comment3.params=identificador\ combustivelParaRetirar\ identificacao
+comment3.target=void\ escolhaDeAbastecimento(int,\ double,\ int)
+comment4.params=camiao
+comment4.target=boolean\ abastecerDeposito(CamiaoCisterna)
+comment5.params=
+comment5.target=void\ Informacao()
+numComments=6

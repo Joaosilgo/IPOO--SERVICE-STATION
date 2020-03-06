@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=identificacao\ gasolina95\ gasolina98\ gasoleo
+comment0.target=Dispensador(int,\ Deposito,\ Deposito,\ Deposito)
+comment1.params=identificador
+comment1.target=void\ selecionarCombustivel(int)
+comment2.params=
+comment2.target=void\ bloquear()
+comment3.params=combustivelParaRetirar
+comment3.target=void\ definirCombustivelParaRetirar(double)
+comment4.params=
+comment4.target=boolean\ abastecer()
+comment5.params=
+comment5.target=java.lang.String\ mostrador()
+numComments=6
