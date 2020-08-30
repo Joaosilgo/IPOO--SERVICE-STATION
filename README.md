@@ -3,6 +3,8 @@
 ## Ano Letivo: 2015/2016
 ## Estação de Serviço
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Joaosilgo/IPOO-SERVICE-STATION)
+
 ### Hugo Pereira nº 150 221 038
 ### João Gomes nº 150 221 001
 
